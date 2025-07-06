@@ -1,0 +1,17 @@
+User: ya ada
+User: apa itu?
+User: ya ada
+User: yui
+User: pip install google-generativeai
+User: ya ada
+User: ya ada
+User: hai
+User: halo
+User: apakah kamu bisa tambah pintar
+User: yui apakah kamu tau indonesia?
+User: main catur
+User: main catur
+User: main catur
+User: main catur
+User: main catur
+User: main catur
